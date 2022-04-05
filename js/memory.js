@@ -6,6 +6,8 @@ let arrayAnimali = [
 ];
 //libreria per icone https://html-css-js.com/html/character-codes/
 
+console.log("kdkoedk");
+
 let arrayComparison = [];
 
 document.body.onload = startGame();
